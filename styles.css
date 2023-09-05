@@ -1,0 +1,30 @@
+.background {
+    background-color: #41BBD9;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#0A1128;
+}
+
+.choice-icon {
+    background-color: #0A1128;
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+    margin: 5px 5px 5px 5px;
+    border-radius: 10px;
+}
+
+.score-box {
+    background-color: #D8D2E1;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    margin: 5px 100px 5px 5px;
+    border-radius: 10px;
+    border-style: inset;
+}
